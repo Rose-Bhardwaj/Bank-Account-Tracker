@@ -1,0 +1,8 @@
+ACTIONS,PURPOSE
+New account,To create a new account for the user by collecting Personal and Account details and storing them
+View Account,Lets the user to either view all the existing accounts or view the details of a specific one using User ID
+Modify Account,Lets the user update their personal details based on their User ID. 
+Deleting Account,To delete an existing account or a set of accounts under a user based on Account number or User ID
+Book Appointment,Lets the user book an appointment by entering their Account number and choosing a date.
+Future enhancements,Discusses further features we'd like to add to this app in the future 
+Logout, Exits the menu and closes the app.
